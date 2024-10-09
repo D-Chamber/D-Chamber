@@ -17,7 +17,7 @@
 
 ## Education
 - Columbus Technical College (graduated 2019): Associates Degree in Applied Science - Computer Support Specialist
-- Columbus State University (currently attending): Bachelors in Computer Science with a focus on Cyber Security
+- Columbus State University: Bachelors in Computer Science with a focus on Cyber Security
 
 <!---
 D-Chamber/D-Chamber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
