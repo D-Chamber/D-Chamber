@@ -3,7 +3,7 @@
 - 👀 I’m interested in learning code and how to setup projects
 - 🌱 I’m currently learning C#, Java, Python, Javascript, HTML, and CSS
 - 💞️ I’m looking to collaborate on whatever I think is a fun project and I am needed in
-- 📫 How to reach me email me at timothynnguyen95@gmail.com or contact me on Twitter @DaChamberGamer
+- 📫 How to reach me email me at timothynnguyen95@gmail.com.
 
 ## Skills
 | Skill | Beginner | Intermediate | Advanced |
