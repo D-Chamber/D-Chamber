@@ -1,5 +1,5 @@
 # Welcome to the my Github
-- 👋 Hi, I’m @D-Chamber ot Tim Nguyen
+- 👋 Hi, I’m @D-Chamber or Tim Nguyen
 - 👀 I’m interested in learning code and how to setup projects
 - 🌱 I’m currently learning C#, Java, Python, Javascript, HTML, and CSS
 - 💞️ I’m looking to collaborate on whatever I think is a fun project and I am needed in
